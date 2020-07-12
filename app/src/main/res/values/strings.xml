@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoogleMap</string>
+    <string name="enter_source_location">Enter Source Location</string>
+    <string name="button">Button</string>
+    <string name="home">Home</string>
+    <string name="enter_destination_location">destination</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
